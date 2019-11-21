@@ -1,0 +1,6 @@
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\bin\Debug\LAB_1-2.exe
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\bin\Debug\LAB_1-2.pdb
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\obj\x86\Debug\LAB_1-2.exe
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\obj\x86\Debug\LAB_1-2.pdb
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\obj\x86\Debug\LAB_1_2.Form1.resources
+c:\users\михаил\documents\visual studio 2010\Projects\LAB_1-2\LAB_1-2\obj\x86\Debug\LAB_1-2.csproj.GenerateResource.Cache
